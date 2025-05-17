@@ -33,6 +33,9 @@ CFG-JavaScript-Kickstarter/
 ├── Module-6-Web-Dev-2/
 │
 └── Module-Exercises/
+│ ├── module1.js
+│ ├── module2.js
+│ └── module3.js
 ```
 
 ---
