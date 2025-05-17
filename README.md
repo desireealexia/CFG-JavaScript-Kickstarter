@@ -31,11 +31,6 @@ CFG-JavaScript-Kickstarter/
 ├── Module-4-Loops-Functions/
 ├── Module-5-Web-Dev-1/
 ├── Module-6-Web-Dev-2/
-├── Module-7-Recap/
-├── Module-8-Reflection/
-│
-└── Mini-Project/
-└── [YourProjectNameHere]/
 │
 └── Module-Exercises/
 ```
