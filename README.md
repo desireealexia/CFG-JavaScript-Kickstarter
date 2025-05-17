@@ -36,6 +36,8 @@ CFG-JavaScript-Kickstarter/
 │
 └── Mini-Project/
 └── [YourProjectNameHere]/
+│
+└── Module-Exercises/
 ```
 
 ---
