@@ -33,21 +33,35 @@ CFG-JavaScript-Kickstarter/
 ├── Module-6-Web-Dev-2/
 │
 └── Module-Exercises/
-│ ├── module1.js
-│ ├── module2.js
-│ └── module3.js
+    ├── module1.js
+    ├── module2.js
+    ├── module3.js
+    ├── module4.js
+    ├── module5/   # Contains HTML and JS files for browser-based exercises
+    └── module6/   # Contains HTML and JS files for browser-based exercises
 ```
 
 ---
 
 ## 🛠️ Projects
 
+Throughout the course, I completed interactive mini-exercises and browser-based challenges related to the fictional grocery store. While there is no standalone final project, the module exercises collectively demonstrate applied knowledge across topics like conditionals, loops, functions, and DOM manipulation.
 
 ---
 
 ## 🚀 How to Run
 
+To explore the browser-based exercises:
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/desireealexia/CFG-JavaScript-Kickstarter.git
+   ```
+
+2. Open the HTML files located in the `Module-Exercises/module5/` or `module6/` folders in your browser. For JavaScript-only files, open them in your preferred code editor (e.g., VS Code) or run them using the browser console or Node.js.
 
 ---
 
 ## 💬 Reflections
+
+This course helped strengthen my core JavaScript skills and gave me confidence in writing clean, functional code. It laid a strong foundation for advancing into more complex topics like API integration and React.
