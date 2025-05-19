@@ -1,0 +1,24 @@
+.nav-bar {
+    color: red;
+    font-size: 25px;
+    font-family: "Helvetica";
+    margin: 20px;
+}
+
+.sign-up-link {
+    color: green;
+    font-size: 25px;
+    margin: 50px;
+}
+
+.contact-link {
+    color: purple;
+    font-size: 25px;
+    margin: 50px;
+}
+
+#log-in {
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
